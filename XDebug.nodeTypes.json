@@ -1,0 +1,34 @@
+{
+  "nodeTypes": {
+    "24269cc52c694a568a2d21257ca18400-1": {
+      "_id": "24269cc52c694a568a2d21257ca18400-1",
+      "description": "XDebug",
+      "displayName": "XDebug",
+      "errorOutcome": false,
+      "inputs": [],
+      "outcomes": [
+        "true"
+      ],
+      "outputs": [],
+      "properties": {
+        "enabled": {
+          "defaultValue": true,
+          "description": "",
+          "multivalued": false,
+          "required": false,
+          "title": "enabled",
+          "type": "BOOLEAN"
+        }
+      },
+      "script": "file://XDebug.nodeTypes.js",
+      "serviceName": "24269cc52c694a568a2d21257ca18400",
+      "tags": [
+        "Staples",
+        "Debug",
+        "utilities"
+      ],
+      "version": 1
+    }
+  },
+  "meta": null
+}
